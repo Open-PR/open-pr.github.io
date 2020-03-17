@@ -1,1 +1,9 @@
+#
+# Site settings
+#
 theme: jekyll-theme-minimal
+url: https://open-pr.github.io
+baseurl: /
+title: Open Pull Request
+description: Open Pull Request Specification
+logo: logo.png
