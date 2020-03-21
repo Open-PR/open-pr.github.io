@@ -40,6 +40,12 @@ files:
 
 - `/version`: contains the version of the Open Pull Request specification used
   by this specific pull request.
+- `/status`: contains the status of this pull request. It MUST be one of these:
+  - `TENTATIVE`
+  - `OPEN`
+  - `DECLINED`
+  - `MERGED`
+  - `SUPERSEDED`
 - `/title`: contains a short summary describing this pull request.
 - `/description`: contains a long description explaining the purpose of this
   pull request.
