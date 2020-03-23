@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="1241px" height="1278px" version="1.1" viewBox="-.5 -.5 1241 1278" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="c" x2="0%" y2="100%">
+			<stop stop-color="#C20600" offset="0"/>
+			<stop stop-color="#B20000" offset="1"/>
+		</linearGradient>
+		<linearGradient id="d" x2="0%" y2="100%">
+			<stop stop-color="#60a917" offset="0"/>
+			<stop stop-color="#2D7600" offset="1"/>
+		</linearGradient>
+		<linearGradient id="b" x2="0%" y2="100%">
+			<stop stop-color="#e51400" offset="0"/>
+			<stop stop-color="#B20000" offset="1"/>
+		</linearGradient>
+		<linearGradient id="a" x2="0%" y2="100%">
+			<stop stop-color="#0028C7" offset="0"/>
+			<stop stop-color="#001DBC" offset="1"/>
+		</linearGradient>
+		<linearGradient id="e" x2="0%" y2="100%">
+			<stop stop-color="#0050ef" offset="0"/>
+			<stop stop-color="#001DBC" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path d="m325 770v-430" fill="none" pointer-events="stroke" stroke="#fff" stroke-miterlimit="10" stroke-width="200"/>
+	<path transform="translate(570) scale(-1 1) translate(-570)" d="m510 157.5 120 77.5-120 77.5z" fill="#fff" pointer-events="all" stroke="#fff" stroke-miterlimit="10" stroke-width="150"/>
+	<path d="m915 770q65-590-285-535" fill="none" pointer-events="stroke" stroke="#fff" stroke-miterlimit="10" stroke-width="200"/>
+	<path d="m220 1200v-325" fill="none" pointer-events="stroke" stroke="#fff" stroke-miterlimit="10" stroke-width="150"/>
+	<path d="m323.33 770v-430" fill="none" pointer-events="stroke" stroke="#000" stroke-miterlimit="10" stroke-width="100"/>
+	<ellipse cx="325" cy="875" rx="105" ry="105" fill="#fff" pointer-events="all" stroke="#fff" stroke-width="150"/>
+	<rect x="195" y="870" width="50" height="285" fill="url(#c)" pointer-events="all"/>
+	<ellipse cx="325" cy="235" rx="105" ry="105" fill="#fff" pointer-events="all" stroke="#fff" stroke-width="150"/>
+	<ellipse cx="325" cy="235" rx="130" ry="130" fill="url(#d)" pointer-events="all"/>
+	<ellipse cx="325" cy="235" rx="80" ry="80" fill="#fff" pointer-events="all"/>
+	<ellipse cx="325" cy="875" rx="130" ry="130" fill="url(#b)" pointer-events="all"/>
+	<ellipse cx="325" cy="875" rx="80" ry="80" fill="#fff" pointer-events="all"/>
+	<path d="m915 770q65-590-285-535" fill="none" pointer-events="stroke" stroke="#000" stroke-miterlimit="10" stroke-width="100"/>
+	<path transform="translate(570) scale(-1 1) translate(-570)" d="m510 157.5 120 77.5-120 77.5z" pointer-events="all" stroke="#000" stroke-miterlimit="10" stroke-width="50"/>
+	<ellipse cx="915" cy="875" rx="105" ry="105" fill="#fff" pointer-events="all" stroke="#fff" stroke-width="150"/>
+	<path d="m810 1200v-325" fill="none" pointer-events="stroke" stroke="#fff" stroke-miterlimit="10" stroke-width="150"/>
+	<rect transform="rotate(-45 948.59 1064.9)" x="872.59" y="912.43" width="152" height="304.87" fill="#fff" pointer-events="all"/>
+	<rect x="785" y="870" width="50" height="285" fill="url(#a)" pointer-events="all"/>
+	<rect transform="rotate(315,930,1042.5)" x="905" y="900" width="50" height="285" fill="url(#a)" pointer-events="all"/>
+	<ellipse cx="915" cy="875" rx="130" ry="130" fill="url(#e)" pointer-events="all"/>
+	<ellipse cx="915" cy="875" rx="80" ry="80" fill="#fff" pointer-events="all"/>
+</svg>
